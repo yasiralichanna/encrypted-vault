@@ -1,0 +1,11 @@
+
+### 4. `LICENSE`
+
+Choose an appropriate open source license (MIT, GPL, etc.) and include it in the repository.
+
+## How to Use After Cloning
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yasiralichanna/encrypted-vault.git
+   cd encrypted-vault
